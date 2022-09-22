@@ -1,0 +1,43 @@
+head {
+    background-color: aliceblue;
+}
+
+body {
+    background-color: peachpuff;
+}
+
+h1, h2 {
+    text-shadow: black 1px 1px;
+}
+
+div {
+    
+    border-color: black;
+    
+}
+
+img {
+    border-style: solid;
+}
+  
+table {
+    border-style: solid;
+}
+
+th, td {
+padding: 4px;
+text-align: left;
+border-bottom: 1px solid black;
+}
+
+tr:hover {
+    background-color: gray;
+}
+
+form {
+    border-bottom: 1px solid black;
+}
+
+#one {
+    color: blue;
+}
